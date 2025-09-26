@@ -1,5 +1,5 @@
 # Global properties
-title-text: "Ventoy theme: Poly Dark (@jfcherng, @shvchk)"
+title-text: "Ventoy theme: Poly Dark (@jocraft2010, @jfcherng, @shvchk)"
 title-font: "Unifont Regular 22"
 title-color: "#FFFFFF"
 desktop-image: "background.png"
